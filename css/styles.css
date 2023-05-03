@@ -1,8 +1,13 @@
 body {
+    padding-top: 76px;
     color: #40514E;
     margin: 0;
     text-align: center;
     font-family: 'Merriweather', serif;
+}
+
+nav {
+    background-color: #66BFBF;
 }
 
 h1 {
